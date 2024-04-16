@@ -1,7 +1,7 @@
-# Malware SHA256 Hashes
+# One Step Ahead
 
-This document provides SHA256 hashes for various additional payloads collected from RisePro. Each entry includes the URL where the malware was found followed by its associated SHA256 hash.
-
+This document contains SHA256 hashes for a range of additional payloads associated with RisePro. 
+For each payload, the document lists the additional payload URL where the malware was detected, followed by its corresponding SHA256 hash. The majority of these payloads were unseen when first discovered and as only arrived on VirusTotal after days of activity.
 ## Samples
 
 ### Yfkjg.exe
