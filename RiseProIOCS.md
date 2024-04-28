@@ -1,15 +1,15 @@
 # One Step Ahead
 
-This document contains SHA256 hashes for a range of additional payloads associated with RisePro. 
-For each payload, the document lists the additional payload URL where the malware was detected, followed by its corresponding SHA256 hash. The majority of these payloads were unseen when first discovered and only arrived on VirusTotal after days of activity.
+This document contains SHA256 hashes for a range of additional payloads associated with RisePro[.] 
+For each payload, the document lists the additional payload URL where the malware was detected, followed by its corresponding SHA256 hash[.] The majority of these payloads were unseen when first discovered and only arrived on VirusTotal after days of activity[.]
 ## Additional Payload URLs And Additional Payloads
 
-### Yfkjg.exe
-- **URL:** `https://wprogs.top/wefrgdf/Yfkjg.exe`
+### Yfkjg[.]exe
+- **URL:** `https[:]//wprogs[[.]]top/wefrgdf/Yfkjg[[.]]exe`
 - **Hash:** `c1705b3aa29b1191aac8e27de88b78d045137a10ac5a7c47a383c48b045fbf35`
 
-### Lenin.exe
-- **URL:** `http://193.233.132.167/cost/lenin.exe`
+### Lenin[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]167/cost/lenin[.]exe`
 - **Hashes:**
   - `133b2c3fc071e434da493055821b3ee1ad9bee5226e9cd5a5514b6d960211b99`
   - `a4850691430681fc4246222e78bda32b21cc02c0f0b5703b62ad159126584c28`
@@ -19,12 +19,12 @@ For each payload, the document lists the additional payload URL where the malwar
   - `6d43839a8e57cd6955733420371c093165c4bc1421ec172784101ca1fd564537`
   - `0ccffa6ce695d75f60ef01bf2f1e1ac94bf0234957f986412886cae39d9e53b6`
 
-### Amadka.exe
-- **URL:** `http://193.233.132.62:57893/hera/amadka.exe`
+### Amadka[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]62:57893/hera/amadka[.]exe`
 - **Hash:** `5a603db79a858a07358240162b533390acfff9921bee3b2915e021f543f2bf70`
 
-### Ffffffffffbbbbbb.exe
-- **URL:** `https://www.dropbox.com/scl/fi/slgppn8spnz3zxbkso8ay/fffffffffffbbbbb.exe?rlkey=920byts69ysb56bba887q202h&dl=1`
+### Ffffffffffbbbbbb[.]exe
+- **URL:** `https[:]//www[.]dropbox[.]com/scl/fi/slgppn8spnz3zxbkso8ay/fffffffffffbbbbb[.]exe?rlkey=920byts69ysb56bba887q202h&dl=1`
 - **Hashes:**
   - `05c9835374bfd6b39ae2b2b43ac77427cb4cd5bdff1f20cb1d5285a8b5de6e05`
   - `4838e20d09d0dec34875a367d6e2118e72f40dd372f949fb73388f4a13fdcd43`
@@ -51,70 +51,70 @@ For each payload, the document lists the additional payload URL where the malwar
   - `39d66821dc0aea38c7c24c0b681e1020a9d95b8c97f1f9f232dad504bf63536b`
   - `7151e28f9de5cf07cd21d44b40e21fff6c2c257c5186dd0a3cffab243a0af7e9`
 
-### 132.exe
-- **URL:** `http://81.19.137.205:8081/static/132.exe`
+### 132[.]exe
+- **URL:** `http[:]//81[.]19[.]137[.]205:8081/static/132[.]exe`
 - **Hash:** `55d7cf9b6f22d6a4e1fa77e58864faa15e21e3292df2dc06dd5f544846e197be`
 
-### K1.exe
-- **URL:** `https://cdn.discordapp.com/attachments/1199765082150801530/1217446235678707754/k1.exe?ex=66040e29&is=65f19929&hm=70b52b48064ba425b1b7031f0351ec2605954e5abeed7cd234847a2f3b310ba8&`
+### K1[.]exe
+- **URL:** `https[:]//cdn[.]discordapp[.]com/attachments/1199765082150801530/1217446235678707754/k1[.]exe?ex=66040e29&is=65f19929&hm=70b52b48064ba425b1b7031f0351ec2605954e5abeed7cd234847a2f3b310ba8&`
 - **Hash:** `396308b7abf201b80232084a7313d5438b80b9167b91f0bfca4c8da8c7b3fd7d`
 
-### RetailerRise.exe
-- **URL:** `http://195.20.16.46/download/RetailerRise.exe`
+### RetailerRise[.]exe
+- **URL:** `http[:]//195[.]20[.]16[.]46/download/RetailerRise[.]exe`
 - **Hash:** `bd81aacc34212fdc8bd7f0788e850e8e95cca31db5906ca926eb505cec8fcb9d`
 
-### Lumma21.exe
-- **URL:** `http://193.233.132.197/lumma21.exe`
+### Lumma21[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]197/lumma21[.]exe`
 - **Hash:** `d44d746b20df4825c851c93cc6b7a29eb6e4029dbab4fb2c5584c172b822802a`
 
-### BecauseBranch.exe
-- **URL:** `http://194.37.97.162/BecauseBranch.exe`
+### BecauseBranch[.]exe
+- **URL:** `http[:]//194[.]37[.]97[.]162/BecauseBranch[.]exe`
 - **Hash:** `922c43a5ccbb2622ec917426a98da9289e5481ad29d5996003e8a46e6791573b`
 
-### L2.exe (1)
-- **URL:** `http://193.233.132.175/server/k/l2.exe`
+### L2[.]exe (1)
+- **URL:** `http[:]//193[.]233[.]132[.]175/server/k/l2[.]exe`
 - **Hash:** `f327c2b5ab1d98f0382a35cd78f694d487c74a7290f1ff7be53f42e23021e599`
 
-### L2.exe (2)
-- **URL:** `http://phuketsigns.com/server/l2.exe`
+### L2[.]exe (2)
+- **URL:** `http[:]//phuketsigns[.]com/server/l2[.]exe`
 - **Hash:** `f327c2b5ab1d98f0382a35cd78f694d487c74a7290f1ff7be53f42e23021e599`
 
-### Fu.exe
-- **URL:** `http://185.215.113.46/cost/fu.exe`
+### Fu[.]exe
+- **URL:** `http[:]//185[.]215[.]113[.]46/cost/fu[.]exe`
 - **Hashes:**
   - `d2c0a67e9f5a36e878853d5f8a0e493d7d29362c2cff1b805cb7b29f52cd0faf`
   - `4cfb01ecc06a005b3f077b3a751f492bcce9d663f16496d0330c3dc273d9352b`
 
-### Amert.exe
-- **URL:** `http://185.215.113.46/mine/amert.exe`
+### Amert[.]exe
+- **URL:** `http[:]//185[.]215[.]113[.]46/mine/amert[.]exe`
 - **Hashes:**
   - `ff0cdf07cfd302d106d73919de1aed833da25cdd38b2d57f4b8978f571312aa9`
   - `7d1e736b876ad9f4effc5736323bbb1db9d53b49abda5a13d238cbe5f56e136c`
 
-### Niks.exe
-- **URL:** `http://185.215.113.46/cost/niks.exe`
+### Niks[.]exe
+- **URL:** `http[:]//185[.]215[.]113[.]46/cost/niks[.]exe`
 - **Hash:** `7d4b825f76a58f12e5b1f44cfa5396623fe5b4b26cd1000fd1c4d871e2303012`
 
-### Plaza.exe
-- **URL:** `http://185.215.113.46/mine/plaza.exe`
+### Plaza[.]exe
+- **URL:** `http[:]//185[.]215[.]113[.]46/mine/plaza[.]exe`
 - **Hash:** `15edb437e6db0e11b1887a24247409f10b3390d805f225ce79d777af6a2815ca`
 
-### Rrl.exe
-- **URL:** `https://www.nikomondi.com/files/rrl.exe`
+### Rrl[.]exe
+- **URL:** `https[:]//www[.]nikomondi[.]com/files/rrl[.]exe`
 - **Hashes:**
   - `eb66ad50bcdf8b3e2ce2430666adc64c1e5ea8463662043dbc7aa27b884e30f9`
   - `8556cfbff254a779a3c4b464e08f3a8dc0aa2cd92a5596023160f7608cee8383`
   - `f8071078ebee89e808217204c2dfd3fb32e9fddf596dda85c7596cbd69de9ab9`
 
-### Go.exe
-- **URL:** `http://193.233.132.167/cost/go.exe`
+### Go[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]167/cost/go[.]exe`
 - **Hashes:**
   - `d2c0a67e9f5a36e878853d5f8a0e493d7d29362c2cff1b805cb7b29f52cd0faf`
   - `74c11c7d7101020006ade46596393772b9d7b3f512d6ed1d18606928c9ae13c1`
   - `59ff8e0aa665fbbf749c7548906a655cb1869bb58a3b7546efa5b416d19e6308`
 
-### Amadka.exe (2)
-- **URL:** `http://193.233.132.216:57893/hera/amadka.exe`
+### Amadka[.]exe (2)
+- **URL:** `http[:]//193[.]233[.]132[.]216:57893/hera/amadka[.]exe`
 - **Hashes:**
   - `59d976d0771fc62492daf38876ac51ae7bc4576aa4090487ae35f062e9d3833b`
   - `c11a71143a1e4905568c8ae9ecbb869aa38898a488d6d4ef3f57cb91c6d11945`
@@ -123,46 +123,46 @@ For each payload, the document lists the additional payload URL where the malwar
   - `f5a3df91a203be91d154f1c5f88ca03e371e0a45aed991e120ff4c67c154c694`
   - `9fc3c4271c361fb4c1fca006aad51696d452988c2c4ea1e27c430385d6da7a8e`
 
-### Crypted_de7109ba.exe
-- **URL:** `http://5.42.66.22/crypted_de7109ba.exe`
+### Crypted_de7109ba[.]exe
+- **URL:** `http[:]//5[.]42[.]66[.]22/crypted_de7109ba[.]exe`
 - **Hash:** `e767d70fc57483aae7a20cb094a9bfc1fd4f04e97fb772cd6892d057e5be4260`
 
-### Rise49.exe
-- **URL:** `http://193.233.132.197/Rise49.exe`
+### Rise49[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]197/Rise49[.]exe`
 - **Hash:** `d4884ff253f507ad8ce98b9818684b78a541393af94e9efaee1d142264225d12`
 
-### Sys.exe
-- **URL:** `http://193.233.132.106:8081/static/sys.exe`
+### Sys[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]106:8081/static/sys[.]exe`
 - **Hash:** `2cd378dd3e9c3ddb6196c7c8a9dc1c88ecf74b2371f1394bd01ff37857a8c7d5`
 
-### Lumma27.exe
-- **URL:** `http://193.233.132.197/lumma27.exe`
+### Lumma27[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]197/lumma27[.]exe`
 - **Hash:** `0dada0f2a9f4c8444deb496043c26428164573683244666e897162619be947b3`
 
-### ConsoleApp1.exe
-- **URL:** `http://77.221.156.212:8081/static/ConsoleApp1.exe`
+### ConsoleApp1[.]exe
+- **URL:** `http[:]//77[.]221[.]156[.]212:8081/static/ConsoleApp1[.]exe`
 - **Hash:** `e71928887c6f61149bd4a1484100027bf6490f084e7df1d5bcb07a7f87d46bab`
 
-### Crypted_33cb9091.exe
-- **URL:** `http://193.233.132.58:8081/static/crypted_33cb9091.exe`
+### Crypted_33cb9091[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]58:8081/static/crypted_33cb9091[.]exe`
 - **Hash:** `8dde9ae7bba0cf1cd94a37bb3a08b417e8948dc19e3b2a84117b1b500963e75c`
 
-### Crypted_097f1784.exe
-- **URL:** `http://193.233.132.58:8081/static/crypted_097f1784.exe`
+### Crypted_097f1784[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]58:8081/static/crypted_097f1784[.]exe`
 - **Hash:** `ae5c73ae04c51465b7fc1dd3238dc80b959fb68146cc9572c52a6d48bc47cfe9`
 
-### Crypted_69a30000.exe
-- **URL:** `http://193.233.132.58:8081/static/crypted_69a30000.exe`
+### Crypted_69a30000[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]58:8081/static/crypted_69a30000[.]exe`
 - **Hash:** `d6129031e25ad05a41f3e7da06b6a11d0d148133033fd865bad202a5165fb7c4`
 
-### KLIPE.exe
-- **URL:** `https://taastruck.vn/wp-content/uploads/2024/KLIPE.exe`
+### KLIPE[.]exe
+- **URL:** `https[:]//taastruck[.]vn/wp-content/uploads/2024/KLIPE[.]exe`
 - **Hash:** `378485afad44ecca7458862bed1e70b3793c55c72fb308b9815e692d1b884c88`
 
-### RisePro.exe
-- **URL:** `http://193.233.132.58:8081/static/RisePro.exe`
+### RisePro[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]58:8081/static/RisePro[.]exe`
 - **Hash:** `53653df2143893a9c3c8a7eea93c306b59bfd70ec855ae3c8791f69879715d37`
 
-### RisePro_1.9_7STLCGTdr0mix0MtZQKu.exe
-- **URL:** `http://193.233.132.58:8081/static/RisePro_1.9_7STLCGTdr0mix0MtZQKu.exe`
+### RisePro_1[.]9_7STLCGTdr0mix0MtZQKu[.]exe
+- **URL:** `http[:]//193[.]233[.]132[.]58:8081/static/RisePro_1[.]9_7STLCGTdr0mix0MtZQKu[.]exe`
 - **Hash:** `d36a12cb3bed74799eba75acdf3c75e473bd8585e79110807442a2d44a4cf488`
