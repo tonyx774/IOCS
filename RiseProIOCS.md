@@ -4,6 +4,15 @@ This document contains SHA256 hashes for a range of additional payloads associat
 
 
 For each payload, the document lists the additional payload URL where the malware was detected, followed by its corresponding SHA256 hash. The majority of these payloads were unseen when first discovered and only arrived on VirusTotal after days of activity.
+
+## Functionality Demo
+
+
+https://github.com/tonyx774/One-Step-Ahead/assets/92649279/a26a0094-f78f-43ac-a725-4b084ef01889
+
+
+
+
 ## Additional Payload URLs And Additional Payloads
 
 ### Yfkjg[.]exe
